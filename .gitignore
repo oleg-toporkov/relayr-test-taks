@@ -1,0 +1,13 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules
+target/
+*.js
+.idea/
+allure-results/
+allure-report/
+documentation/
+npm-debug.log
+xunit_result.xml
+xunit_result-*.xml
+browser.log
+browser*.log

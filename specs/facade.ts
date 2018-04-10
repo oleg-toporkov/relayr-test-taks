@@ -1,4 +1,5 @@
-export { GoogleSearchSteps } from '../steps/googleSearchSteps';
+export { SearchSteps } from '../steps/searchSteps';
+export { ResultsSteps } from '../steps/resultsSteps';
 
 
 require('mocha-allure-reporter');
